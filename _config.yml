@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.24976781344639687
+  lightness: 0.5094470959497782
+  rhythmicContrast: 0.20058447570525617
+  saturation: 0.6808952443550053
+cta: {}
+layout_spectrum: 0.45987746287464726
+name: arben
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.527612670191604
